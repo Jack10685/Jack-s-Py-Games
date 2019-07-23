@@ -6,7 +6,7 @@ position = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 def clear():
 	if (os.name == 'nt'):
 		os.system('cls')
-	else
+	else:
 		os.system('clear')
 
 def disp():
