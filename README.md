@@ -1,4 +1,4 @@
-# Jacks-Py-Games
+# Jack's Py Games
 a collection of popular games written in Python
 
 all games will work right away with the lastest version of python, with the exception of connect 4. For connect 4 to work, you must install colorama.
