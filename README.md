@@ -1,5 +1,5 @@
 # Jack's Py Games
-a collection of popular games written in Python
+A collection of popular games written in Python, and an algorithm-based AI to play against for each one
 
 Each of these games features an AI that operates off of algorithms for the player to play against
 
