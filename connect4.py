@@ -367,7 +367,7 @@ def checkWin(col, row, color):
 	while (x < 7):
 		y = 0
 		while (y < 6):
-			if (board[y][x] == "E"):
+			if (board[x][y] == "E"):
 				emptySpace = True
 				break
 			y+=1
